@@ -19,10 +19,10 @@ Usar o dois pontos(:)
 
 
 LISTA NUMERADA: (pode usar qualquer número com . e um espaço)
-1.
-1.
-2.
-2.
+1. Teste
+1. Teste
+2. Teste
+2. Teste
 
 LISTA DEMARCADA:(usa o * seguido de um espaço)
 
