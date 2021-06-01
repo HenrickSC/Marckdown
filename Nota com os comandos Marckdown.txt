@@ -18,17 +18,17 @@ COLOCAR EMOJI:
 Usar o dois pontos(:)
 
 
-LISTA NUMERADA: (pode usar qualquer número com .)
+LISTA NUMERADA: (pode usar qualquer número com . e um espaço)
 1.
-   1.(três espaços para criar um sub item)
+1.
 2.
 2.
 
-LISTA DEMARCADA:
+LISTA DEMARCADA:(usa o * seguido de um espaço)
 
-*teste
-*teste
-   *teste(três espaços para criar um sub item)
+* teste
+* teste
+* teste
 
 LISTA DE TAREFAS:
 
