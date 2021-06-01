@@ -57,7 +57,36 @@
  
  Numero | Nome | Nota
  ---|---|---
- 1 | Henrique | 9,5
- 2 | Paulo | 9,5
+ 1 | Henrique | 9,8
+ 2 | Paulo | 9,7
+ 3 | Pedro | 9,6
+ 
+ Deixar o código como no editor:
+ 
+ ```
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+```
+
+**Espero que ajude!** 👊😊
+
+Créditos para o curso de **Git e Github** do Curso em Vídeo que me ensinou tudo isso.
+
+Dê uma olhada nos cursos dele:
+[Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+
 
 
