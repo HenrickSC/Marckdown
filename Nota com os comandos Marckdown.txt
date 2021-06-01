@@ -36,10 +36,10 @@ LISTA DE TAREFAS:
 - [ ]
 - [x](colocar um x para mostrar que a tarefa está completa)
 
-CRIAR TABELA(:--: para centralizar o texto)
+CRIAR TABELA
 
 Numero | Nome | Nota
- :--: | :--: | :--:
+ ---|---|---
  1 | Henrique | 9,5
  2 | Paulo | 9,5
 
