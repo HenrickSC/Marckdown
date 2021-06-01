@@ -36,11 +36,13 @@ LISTA DE TAREFAS:
 - [ ]
 - [x](colocar um x para mostrar que a tarefa está completa)
 
-CRIAR TABELA
+CRIAR TABELA(:--: para centralizar o texto)
 
----|---|---
-1 | Henrique | 9,5
-2 | Paulo | 9,5
+Numero | Nome | Nota
+ :--: | :--: | :--:
+ 1 | Henrique | 9,5
+ 2 | Paulo | 9,5
+
 
 DEIXAR O CÓDIGO COMO NO EDITOR(colocar entre três crases)
 
