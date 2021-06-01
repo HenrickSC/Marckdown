@@ -6,6 +6,9 @@
  
  Itálico:
  *itálico*
+ 
+ Texto riscado:
+ ~~TextoRiscado~~
 
  Linha horizontal:
  ***
