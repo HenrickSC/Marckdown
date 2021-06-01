@@ -28,7 +28,7 @@ LISTA DEMARCADA:
 
 *teste
 *teste
-   *teste
+   *teste(três espaços para criar um sub item)
 
 LISTA DE TAREFAS:
 
