@@ -37,14 +37,14 @@
  
  1. Item1
  1. Item2
- 1. Item3
+     1. Subitem
  1. Item4
  1. Item5
  
  Lista demarcada:
  
  * Item1
- * Item2
+     * Subitem
  * Item3
  
  Lista de Tarefas:
@@ -87,6 +87,3 @@ Créditos para o curso de **Git e Github** do Curso em Vídeo que me ensinou tud
 
 Dê uma olhada nos cursos dele:
 [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-
-
-
