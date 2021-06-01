@@ -15,7 +15,7 @@ COLOCAR LINK:
 [texto desejado](link desejado)
 
 COLOCAR EMOJI:
-Usar o dois pontos(:)
+Usar o dois pontos seguido do nome do emoji(:hand)
 
 
 LISTA NUMERADA: (pode usar qualquer número com . e um espaço)
