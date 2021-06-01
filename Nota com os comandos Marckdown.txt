@@ -1,0 +1,63 @@
+LINGUAGEM MARCKDOW
+
+**negrito**
+*italico*
+~~texto riscado~~
+***(linha horizontal)
+#(Título de nível 1)
+##(Título de nível 2)
+###(Título de nível 3)
+
+COLOCAR IMAGEM:
+(pega e arrasta a imagem)
+
+COLOCAR LINK:
+[texto desejado](link desejado)
+
+COLOCAR EMOJI:
+Usar o dois pontos(:)
+
+
+LISTA NUMERADA: (pode usar qualquer número com .)
+1.
+   1.(três espaços para criar um sub item)
+2.
+2.
+
+LISTA DEMARCADA:
+
+*teste
+*teste
+   *teste
+
+LISTA DE TAREFAS:
+
+- [ ] criar a página
+- [ ]
+- [x](colocar um x para mostrar que a tarefa está completa)
+
+CRIAR TABELA
+
+---|---|---
+1 | Henrique | 9,5
+2 | Paulo | 9,5
+
+DEIXAR O CÓDIGO COMO NO EDITOR(colocar entre três crases)
+
+```
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+```
