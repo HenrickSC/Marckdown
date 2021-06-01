@@ -56,7 +56,7 @@
  Criar tabela
  
  Numero | Nome | Nota
- :--: | :--: | :--:
+ ---|---|---
  1 | Henrique | 9,5
  2 | Paulo | 9,5
 
