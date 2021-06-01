@@ -46,5 +46,18 @@
  * Item1
  * Item2
  * Item3
+ 
+ Lista de Tarefas:
+ - [x] Criar projeto
+ - [x] alimentar página principal
+ - [ ] criar segunda página
+ - [ ] demais alterações
+
+ Criar tabela
+ 
+ Numero | Nome | Nota
+ :--: | :--: | :--:
+ 1 | Henrique | 9,5
+ 2 | Paulo | 9,5
 
 
