@@ -23,8 +23,8 @@
  
  Colocar imagem:
  
- ![perfil](https://user-images.githubusercontent.com/85143215/120345256-b0cad100-c2d0-11eb-9d29-6a9f84b74fe4.jpg)
- 
+ ![plano-de-fundo-de-programacao-com-pessoa-trabalhando-com-codigos-no-computador](https://github.com/user-attachments/assets/34140429-c01b-47dd-84d5-4985feca48f7)
+
  Colocar Link:
  
  Link para o meu perfil no GitHub: [Clique aqui](https://github.com/HenrickSC)
