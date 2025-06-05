@@ -1,6 +1,6 @@
 # Markdown
 ## Para saber como executar os comandos olhe o arquivo .txt
- Alguns comandos simples e úteis da linguagem Marckdown:
+ Alguns comandos simples e úteis da linguagem Markdown:
 
  Colocar Negrito:
  **negrito**
